@@ -31,4 +31,6 @@ function formatTime(time){
 return time;
     }
 }
+
 Countdown();
+setInterval(Countdown,1000);

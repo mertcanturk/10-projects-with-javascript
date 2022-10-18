@@ -16,16 +16,20 @@ body{
 .head{
     font-size: 6rem;
     margin-top: -10rem;
+    color: #fff;
 }
 .big-text{
     font-size: 3rem;
     margin: 0 2rem;
+    color:#fff;
 }
 .countdown-el{
     text-align: center;
+    color: #fff;
 }
 .countdown-el span{
     font-size: 1.5rem;
     font-style: italic;
+    color: #fff;
     
 }
