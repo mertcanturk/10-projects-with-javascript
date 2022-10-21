@@ -13,3 +13,6 @@
 
 **Proje-5** *Movie*
 ![](Movie/img/Screenshot_10.png)
+
+**Proje-6** *Draw*
+![](draw/img/Screenshot_11.png)
