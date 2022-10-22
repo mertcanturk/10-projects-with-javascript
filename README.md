@@ -19,3 +19,9 @@
 
 **Proje-7** *Password Generator*
 ![](passwordGenerator/img/Screenshot_12.png)
+
+**Proje-8** *Weather*
+![](weather/img/Screenshot_13.png)
+
+**Proje-9** *Note*
+![](Notes/img/Screenshot_8.png)
